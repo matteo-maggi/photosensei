@@ -15,20 +15,20 @@ App Store: https://apps.apple.com/app/id6833265894
 
 ## Pages
 
-- [Photo Sensei – Clean up your iPhone photos with a swipe](https://matteo-maggi.github.io/photosensei/)
-- [Photo Sensei – Riordina le foto dell'iPhone con uno swipe](https://matteo-maggi.github.io/photosensei/it/)
-- [Photo Sensei – Ordena las fotos del iPhone deslizando](https://matteo-maggi.github.io/photosensei/es/)
-- [Photo Sensei – Triez les photos de l'iPhone d'un geste](https://matteo-maggi.github.io/photosensei/fr/)
-- [Photo Sensei – iPhone-Fotos per Wisch aufräumen](https://matteo-maggi.github.io/photosensei/de/)
-- [How to free up iPhone storage by cleaning up your photos](https://matteo-maggi.github.io/photosensei/guides/free-up-iphone-storage.html)
-- [How to move iPhone photo albums to a Windows PC](https://matteo-maggi.github.io/photosensei/guides/export-iphone-albums-to-windows.html)
-- [How to clean up WhatsApp and chat photos on iPhone](https://matteo-maggi.github.io/photosensei/guides/clean-up-chat-photos.html)
-- [How to find iPhone photos that aren't in any album](https://matteo-maggi.github.io/photosensei/guides/photos-not-in-any-album.html)
-- [Come liberare spazio sull'iPhone facendo pulizia delle foto](https://matteo-maggi.github.io/photosensei/it/guide/liberare-spazio-iphone.html)
-- [Come trasferire gli album dell'iPhone su un PC Windows](https://matteo-maggi.github.io/photosensei/it/guide/album-iphone-su-windows.html)
-- [Come fare pulizia delle foto di WhatsApp e delle chat sull'iPhone](https://matteo-maggi.github.io/photosensei/it/guide/pulizia-foto-chat.html)
-- [Come trovare le foto dell'iPhone che non sono in nessun album](https://matteo-maggi.github.io/photosensei/it/guide/foto-in-nessun-album.html)
-- [Privacy Policy](https://matteo-maggi.github.io/photosensei/privacy.html)
+- [Photo Sensei – Clean up your iPhone photos with a swipe](https://photosensei.optiapp.it/)
+- [Photo Sensei – Riordina le foto dell'iPhone con uno swipe](https://photosensei.optiapp.it/it/)
+- [Photo Sensei – Ordena las fotos del iPhone deslizando](https://photosensei.optiapp.it/es/)
+- [Photo Sensei – Triez les photos de l'iPhone d'un geste](https://photosensei.optiapp.it/fr/)
+- [Photo Sensei – iPhone-Fotos per Wisch aufräumen](https://photosensei.optiapp.it/de/)
+- [How to free up iPhone storage by cleaning up your photos](https://photosensei.optiapp.it/guides/free-up-iphone-storage.html)
+- [How to move iPhone photo albums to a Windows PC](https://photosensei.optiapp.it/guides/export-iphone-albums-to-windows.html)
+- [How to clean up WhatsApp and chat photos on iPhone](https://photosensei.optiapp.it/guides/clean-up-chat-photos.html)
+- [How to find iPhone photos that aren't in any album](https://photosensei.optiapp.it/guides/photos-not-in-any-album.html)
+- [Come liberare spazio sull'iPhone facendo pulizia delle foto](https://photosensei.optiapp.it/it/guide/liberare-spazio-iphone.html)
+- [Come trasferire gli album dell'iPhone su un PC Windows](https://photosensei.optiapp.it/it/guide/album-iphone-su-windows.html)
+- [Come fare pulizia delle foto di WhatsApp e delle chat sull'iPhone](https://photosensei.optiapp.it/it/guide/pulizia-foto-chat.html)
+- [Come trovare le foto dell'iPhone che non sono in nessun album](https://photosensei.optiapp.it/it/guide/foto-in-nessun-album.html)
+- [Privacy Policy](https://photosensei.optiapp.it/privacy.html)
 - Support: info@optiapp.it
 
 ## Social
