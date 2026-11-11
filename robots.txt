@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matteo-maggi.github.io/photosensei/sitemap.xml
