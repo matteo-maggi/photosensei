@@ -2,7 +2,7 @@
 
 > Sort your iPhone camera roll one swipe at a time: keep, favorite, delete, hide or file into albums. Sort album by album and export albums as .zip. Private, no account.
 
-Photo Sensei is an iPhone app by Matteo Maggi for sorting the camera roll one photo at a time with swipes.
+Photo Sensei is an iPhone app by OptiApp for sorting the camera roll one photo at a time with swipes.
 - Price: one-time purchase, €0.99 (no subscription, no in-app purchases, no ads).
 - Platform: iPhone, iOS 13 or later. Languages: English, Italian, Spanish, French, German.
 - Privacy: works fully on device; no account, no network requests, App Store label “Data Not Collected”.
@@ -30,3 +30,10 @@ App Store: https://apps.apple.com/app/id6833265894
 - [Come trovare le foto dell'iPhone che non sono in nessun album](https://matteo-maggi.github.io/photosensei/it/guide/foto-in-nessun-album.html)
 - [Privacy Policy](https://matteo-maggi.github.io/photosensei/privacy.html)
 - Support: info@optiapp.it
+
+## Social
+
+- [Instagram](https://www.instagram.com/photosenseiapp/)
+- [TikTok](https://www.tiktok.com/@photosenseiapp)
+- [YouTube](https://www.youtube.com/channel/UCkX99qgxku0RVjnWb9nUC3w)
+- [Facebook](https://www.facebook.com/profile.php?id=61596292628672)
