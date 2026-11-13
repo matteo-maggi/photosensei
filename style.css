@@ -10,6 +10,7 @@ h1{font-size:clamp(32px,6vw,54px);line-height:1.08;letter-spacing:-1px;margin:24
 .lead{font-size:20px;color:var(--muted);max-width:720px;margin:0 auto}
 .cta{display:inline-block;margin-top:28px;padding:16px 30px;border-radius:14px;background:#1e1b4b;color:#fff;font-weight:700;text-decoration:none}
 @media (prefers-color-scheme:dark){.cta{background:#4f46e5}}
+.cta.soon{cursor:default}
 .price{color:var(--muted);font-size:15px;margin-top:10px}
 section{margin-top:56px}h2{font-size:30px;letter-spacing:-.5px}
 .features{display:grid;gap:24px;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr))}
